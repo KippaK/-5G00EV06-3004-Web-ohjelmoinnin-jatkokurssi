@@ -1,0 +1,6 @@
+[submodule "week-35-html-css-and-js-KippaK"]
+	path = week-35-html-css-and-js-KippaK
+	url = git@github.com:5G00EV06-3004/week-35-html-css-and-js-KippaK.git
+[submodule "week-36-essential-javascript-for-react-KippaK"]
+	path = week-36-essential-javascript-for-react-KippaK
+	url = git@github.com:5G00EV06-3004/week-36-essential-javascript-for-react-KippaK.git
