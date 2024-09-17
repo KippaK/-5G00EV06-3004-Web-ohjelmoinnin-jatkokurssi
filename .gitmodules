@@ -4,3 +4,6 @@
 [submodule "week-36-essential-javascript-for-react-KippaK"]
 	path = week-36-essential-javascript-for-react-KippaK
 	url = git@github.com:5G00EV06-3004/week-36-essential-javascript-for-react-KippaK.git
+[submodule "week-37-react-basics-KippaK"]
+	path = week-37-react-basics-KippaK
+	url = git@github.com:5G00EV06-3004/week-37-react-basics-KippaK.git
