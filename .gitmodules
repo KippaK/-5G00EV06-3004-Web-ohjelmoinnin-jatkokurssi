@@ -7,3 +7,6 @@
 [submodule "week-37-react-basics-KippaK"]
 	path = week-37-react-basics-KippaK
 	url = git@github.com:5G00EV06-3004/week-37-react-basics-KippaK.git
+[submodule "week-38-react-state-KippaK"]
+	path = week-38-react-state-KippaK
+	url = git@github.com:5G00EV06-3004/week-38-react-state-KippaK.git
