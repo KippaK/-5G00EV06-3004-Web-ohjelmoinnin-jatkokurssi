@@ -13,3 +13,6 @@
 [submodule "week-39-rendering-lists-KippaK"]
 	path = week-39-rendering-lists-KippaK
 	url = git@github.com:5G00EV06-3004/week-39-rendering-lists-KippaK.git
+[submodule "week-40-styling-react-KippaK"]
+	path = week-40-styling-react-KippaK
+	url = git@github.com:5G00EV06-3004/week-40-styling-react-KippaK.git
