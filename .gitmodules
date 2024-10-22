@@ -16,3 +16,6 @@
 [submodule "week-40-styling-react-KippaK"]
 	path = week-40-styling-react-KippaK
 	url = git@github.com:5G00EV06-3004/week-40-styling-react-KippaK.git
+[submodule "week-41-react-hooks-KippaK"]
+	path = week-41-react-hooks-KippaK
+	url = git@github.com:5G00EV06-3004/week-41-react-hooks-KippaK.git
