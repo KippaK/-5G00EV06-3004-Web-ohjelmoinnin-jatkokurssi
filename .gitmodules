@@ -19,3 +19,6 @@
 [submodule "week-41-react-hooks-KippaK"]
 	path = week-41-react-hooks-KippaK
 	url = git@github.com:5G00EV06-3004/week-41-react-hooks-KippaK.git
+[submodule "week-43-mid-term-assignment-KippaK"]
+	path = week-43-mid-term-assignment-KippaK
+	url = git@github.com:5G00EV06-3004/week-43-mid-term-assignment-KippaK.git
