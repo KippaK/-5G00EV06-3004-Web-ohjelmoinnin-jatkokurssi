@@ -22,3 +22,6 @@
 [submodule "week-43-mid-term-assignment-KippaK"]
 	path = week-43-mid-term-assignment-KippaK
 	url = git@github.com:5G00EV06-3004/week-43-mid-term-assignment-KippaK.git
+[submodule "week-44-incorporating-data-KippaK"]
+	path = week-44-incorporating-data-KippaK
+	url = git@github.com:5G00EV06-3004/week-44-incorporating-data-KippaK.git
