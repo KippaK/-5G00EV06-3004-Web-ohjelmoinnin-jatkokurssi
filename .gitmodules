@@ -25,3 +25,6 @@
 [submodule "week-44-incorporating-data-KippaK"]
 	path = week-44-incorporating-data-KippaK
 	url = git@github.com:5G00EV06-3004/week-44-incorporating-data-KippaK.git
+[submodule "week-45-react-router-spa-KippaK"]
+	path = week-45-react-router-spa-KippaK
+	url = git@github.com:5G00EV06-3004/week-45-react-router-spa-KippaK.git
