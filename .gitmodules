@@ -28,3 +28,6 @@
 [submodule "week-45-react-router-spa-KippaK"]
 	path = week-45-react-router-spa-KippaK
 	url = git@github.com:5G00EV06-3004/week-45-react-router-spa-KippaK.git
+[submodule "week-46-testing-react-KippaK"]
+	path = week-46-testing-react-KippaK
+	url = git@github.com:5G00EV06-3004/week-46-testing-react-KippaK.git
